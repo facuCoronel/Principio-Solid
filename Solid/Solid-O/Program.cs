@@ -26,10 +26,36 @@ namespace Solid_O
 
             public decimal GetPrice()
             {
-                throw new NotImplementedException();
+                return Price * Invoice;
             }
         }
 
+        public class Alcohol : IDrink
+        {
+            public string Name { get; set; }
+            public decimal Price { get; set; }
+            public decimal Invoice { get; set; }
+            public decimal Promo { get; set; }
+
+            public decimal GetPrice()
+            {
+                return Invoice * Price - Promo;
+            }
+
+        }
+
+        public class Sugary : IDrink
+        {
+            public string Name { get; set; }
+            public decimal Price { get; set; }
+            public decimal Invoice { get; set; }
+            public decimal Expiration { get; set; }
+
+            public decimal GetPrice()
+            {
+                return (Price * Invoice) - Expiration;
+            }
+        }
 
         public class Invoice
         {
@@ -38,7 +64,7 @@ namespace Solid_O
                 decimal total = 0;
                 foreach(var drink in lstDrink)
                 {
-                    total += drink.Price;
+                    total += drink.GetPrice();
                 }
                 return total;
             }
