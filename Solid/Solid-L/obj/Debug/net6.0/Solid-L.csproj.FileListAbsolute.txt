@@ -1,0 +1,15 @@
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\bin\Debug\net6.0\Solid-L.exe
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\bin\Debug\net6.0\Solid-L.deps.json
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\bin\Debug\net6.0\Solid-L.runtimeconfig.json
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\bin\Debug\net6.0\Solid-L.dll
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\bin\Debug\net6.0\Solid-L.pdb
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.dll
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\refint\Solid-L.dll
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.pdb
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\Solid-L.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Desktop\Extrados\Capacitacion Ale Extrados\Solid\Solid-L\obj\Debug\net6.0\ref\Solid-L.dll
